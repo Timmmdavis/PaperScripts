@@ -1,7 +1,7 @@
 # Paper scripts
 
 
-## Use scripts in combination with CutAndDisplace to reproduce diagrams from my papers. 
+### Use scripts in combination with CutAndDisplace to reproduce diagrams from my papers. 
 
 I will try and keep this up to date but some scripts may become outdated. 
 
@@ -16,6 +16,6 @@ Script 2:
 
 FractureFrictionFaceSlip.m
 
-Reproduce figure 4 slip profile from:
+Reproduce Figure 4 slip profile from:
 
 [2018: Slip on wavy frictional faults: Is the 3rd dimension a sticking point?](https://www.sciencedirect.com/science/article/pii/S0191814118301597),
