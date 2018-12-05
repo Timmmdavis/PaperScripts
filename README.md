@@ -14,8 +14,8 @@ Reproduce points along the curve from Figure 12 and 13 of:
 
 Script 2:
 
-XXX.m
+FractureFrictionFaceSlip.m
 
-Reproduce the slip from:
+Reproduce figure 4 slip profile from:
 
-[XXXX](X),
+[2018: Slip on wavy frictional faults: Is the 3rd dimension a sticking point?](https://www.sciencedirect.com/science/article/pii/S0191814118301597),
